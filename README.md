@@ -3,6 +3,14 @@
 ## What is this?
 This is a copy from Twitter with React Native.
 
+## Screenshots
+![drawerdark](https://user-images.githubusercontent.com/70117105/121923392-43c42c00-cd11-11eb-9128-63bfd47c6de4.png)
+![drawerlight](https://user-images.githubusercontent.com/70117105/121923443-5179b180-cd11-11eb-87b0-ab48741f6ecd.png)
+![tuit](https://user-images.githubusercontent.com/70117105/121923545-6d7d5300-cd11-11eb-8bd8-e882e2bd6f1e.png)
+![perfil](https://user-images.githubusercontent.com/70117105/121923558-7110da00-cd11-11eb-8486-869f397c541c.png)
+![home](https://user-images.githubusercontent.com/70117105/121923632-8259e680-cd11-11eb-86fe-cd3d9b91f8f2.png)
+
+
 ## Skills use:
 
 [![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=React&logoColor=white&labelColor=101010)]()
